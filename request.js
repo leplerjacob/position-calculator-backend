@@ -4,12 +4,21 @@ const axios = require("axios");
 
 // })
 function getBTCPrice() {
-  return axios.get("http://localhost:3001/data").then((res) => {
+  return axios.get("http://localhost:3002/data").then((res) => {
     return res.data[0].quote.USD.price
   });
 }
 
-exports.getBTC = getBTCPrice
+function getETHPrice() {
+  return axios.get("http://localhost:3002/data").then((res) => {
+    return res.data[1].quote.USD.price
+  })
+}
+
+module.exports = {
+  getBTC: getBTCPrice,
+  getETH: getETHPrice
+}
 
 /*
 const requestOptions = {
