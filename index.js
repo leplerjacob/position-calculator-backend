@@ -3,12 +3,12 @@ const request = require("./request.js");
 const cors = require("cors");
 const app = express();
 
-const port = 3000;
+const port = 3001;
 
 app.use(cors());
 
 const corsOptions = {
-  origin: "http://localhost:3002",
+  origin: "http://localhost:3000",
   optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
 };
 
@@ -19,9 +19,12 @@ app.get("/btcusd", cors(corsOptions), async (req, res) => {
   res.send(json);
 });
 
-// app.get('/ethusd', (req, res) => {
-//   res.send('Eth Price')
-// })
+app.get("/ethusd", cors(corsOptions), async (req, res) => {
+  const data = await request.getETH();
+  const json = JSON.stringify(data);
+
+  res.send(json);
+});
 
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
