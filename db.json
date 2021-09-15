@@ -1098,7 +1098,11 @@
       "slug": "tron",
       "num_market_pairs": 529,
       "date_added": "2017-09-13T00:00:00.000Z",
-      "tags": ["media", "payments", "binance-smart-chain"],
+      "tags": [
+        "media",
+        "payments",
+        "binance-smart-chain"
+      ],
       "max_supply": null,
       "circulating_supply": 71659657369.49,
       "total_supply": 100850743811.662,
@@ -1580,7 +1584,10 @@
       "slug": "klaytn",
       "num_market_pairs": 54,
       "date_added": "2020-03-30T00:00:00.000Z",
-      "tags": ["platform", "enterprise-solutions"],
+      "tags": [
+        "platform",
+        "enterprise-solutions"
+      ],
       "max_supply": null,
       "circulating_supply": 2500574677.6,
       "total_supply": 10660451977.6,
@@ -1695,7 +1702,11 @@
       "slug": "neo",
       "num_market_pairs": 245,
       "date_added": "2016-09-08T00:00:00.000Z",
-      "tags": ["platform", "enterprise-solutions", "smart-contracts"],
+      "tags": [
+        "platform",
+        "enterprise-solutions",
+        "smart-contracts"
+      ],
       "max_supply": 100000000,
       "circulating_supply": 70538831,
       "total_supply": 100000000,
@@ -1726,7 +1737,10 @@
       "slug": "bitcoin-bep2",
       "num_market_pairs": 38,
       "date_added": "2019-06-18T00:00:00.000Z",
-      "tags": ["binance-chain", "binance-smart-chain"],
+      "tags": [
+        "binance-chain",
+        "binance-smart-chain"
+      ],
       "max_supply": null,
       "circulating_supply": 78123.66803963,
       "total_supply": 85501,
@@ -1964,7 +1978,12 @@
       "slug": "waves",
       "num_market_pairs": 152,
       "date_added": "2016-06-02T00:00:00.000Z",
-      "tags": ["lpos", "platform", "smart-contracts", "solana-ecosystem"],
+      "tags": [
+        "lpos",
+        "platform",
+        "smart-contracts",
+        "solana-ecosystem"
+      ],
       "max_supply": null,
       "circulating_supply": 106055362,
       "total_supply": 106055362,
@@ -2085,7 +2104,10 @@
       "slug": "shiba-inu",
       "num_market_pairs": 120,
       "date_added": "2020-08-01T00:00:00.000Z",
-      "tags": ["memes", "doggone-doggerel"],
+      "tags": [
+        "memes",
+        "doggone-doggerel"
+      ],
       "max_supply": null,
       "circulating_supply": 394796000000000,
       "total_supply": 1000000000000000,
@@ -2334,7 +2356,11 @@
       "slug": "terrausd",
       "num_market_pairs": 130,
       "date_added": "2020-09-21T00:00:00.000Z",
-      "tags": ["stablecoin", "binance-smart-chain", "terra-ecosystem"],
+      "tags": [
+        "stablecoin",
+        "binance-smart-chain",
+        "terra-ecosystem"
+      ],
       "max_supply": null,
       "circulating_supply": 2410687779.350463,
       "total_supply": 2410687779.350463,
@@ -2526,7 +2552,12 @@
       "slug": "chiliz",
       "num_market_pairs": 175,
       "date_added": "2019-07-01T00:00:00.000Z",
-      "tags": ["sports", "collectibles-nfts", "content-creation", "payments"],
+      "tags": [
+        "sports",
+        "collectibles-nfts",
+        "content-creation",
+        "payments"
+      ],
       "max_supply": 8888888888,
       "circulating_supply": 5894516282.358405,
       "total_supply": 8888888888,
@@ -2600,7 +2631,10 @@
       "slug": "quant",
       "num_market_pairs": 52,
       "date_added": "2018-08-10T00:00:00.000Z",
-      "tags": ["platform", "interoperability"],
+      "tags": [
+        "platform",
+        "interoperability"
+      ],
       "max_supply": 14612493,
       "circulating_supply": 12072738,
       "total_supply": 14612493.080826,
@@ -2677,7 +2711,12 @@
       "slug": "holo",
       "num_market_pairs": 87,
       "date_added": "2018-04-29T00:00:00.000Z",
-      "tags": ["platform", "distributed-computing", "filesharing", "storage"],
+      "tags": [
+        "platform",
+        "distributed-computing",
+        "filesharing",
+        "storage"
+      ],
       "max_supply": null,
       "circulating_supply": 172794036340.7471,
       "total_supply": 177619433541.14133,
@@ -2714,7 +2753,11 @@
       "slug": "revain",
       "num_market_pairs": 16,
       "date_added": "2017-11-01T00:00:00.000Z",
-      "tags": ["platform", "reputation", "smart-contracts"],
+      "tags": [
+        "platform",
+        "reputation",
+        "smart-contracts"
+      ],
       "max_supply": null,
       "circulating_supply": 85061485689.83401,
       "total_supply": 85061485689.83401,
@@ -2878,7 +2921,11 @@
       "slug": "theta-fuel",
       "num_market_pairs": 19,
       "date_added": "2019-03-28T00:00:00.000Z",
-      "tags": ["media", "content-creation", "payments"],
+      "tags": [
+        "media",
+        "content-creation",
+        "payments"
+      ],
       "max_supply": null,
       "circulating_supply": 5301214400,
       "total_supply": 5301214400,
@@ -2997,7 +3044,13 @@
       "slug": "enjin-coin",
       "num_market_pairs": 186,
       "date_added": "2017-11-01T00:00:00.000Z",
-      "tags": ["media", "collectibles-nfts", "gaming", "ethereum", "metaverse"],
+      "tags": [
+        "media",
+        "collectibles-nfts",
+        "gaming",
+        "ethereum",
+        "metaverse"
+      ],
       "max_supply": 1000000000,
       "circulating_supply": 834331121.3990188,
       "total_supply": 1000000000,
@@ -3304,7 +3357,10 @@
       "slug": "celsius",
       "num_market_pairs": 49,
       "date_added": "2018-05-18T00:00:00.000Z",
-      "tags": ["lending-borowing", "exnetwork-capital-portfolio"],
+      "tags": [
+        "lending-borowing",
+        "exnetwork-capital-portfolio"
+      ],
       "max_supply": 695658160,
       "circulating_supply": 238863519.826,
       "total_supply": 695658160,
@@ -3341,7 +3397,11 @@
       "slug": "bitcoin-gold",
       "num_market_pairs": 67,
       "date_added": "2017-10-23T00:00:00.000Z",
-      "tags": ["mineable", "medium-of-exchange", "payments"],
+      "tags": [
+        "mineable",
+        "medium-of-exchange",
+        "payments"
+      ],
       "max_supply": 21000000,
       "circulating_supply": 17513923.589,
       "total_supply": 17513923.589,
@@ -3493,7 +3553,11 @@
       "slug": "qtum",
       "num_market_pairs": 193,
       "date_added": "2017-05-24T00:00:00.000Z",
-      "tags": ["platform", "smart-contracts", "kinetic-capital"],
+      "tags": [
+        "platform",
+        "smart-contracts",
+        "kinetic-capital"
+      ],
       "max_supply": 107822406,
       "circulating_supply": 98662323.7260568,
       "total_supply": 103696127,
@@ -3524,7 +3588,11 @@
       "slug": "ravencoin",
       "num_market_pairs": 81,
       "date_added": "2018-03-10T00:00:00.000Z",
-      "tags": ["mineable", "platform", "crowdfunding"],
+      "tags": [
+        "mineable",
+        "platform",
+        "crowdfunding"
+      ],
       "max_supply": 21000000000,
       "circulating_supply": 9556715000,
       "total_supply": 9556715000,
@@ -3601,7 +3669,10 @@
       "slug": "telcoin",
       "num_market_pairs": 32,
       "date_added": "2018-01-14T00:00:00.000Z",
-      "tags": ["medium-of-exchange", "polygon-ecosystem"],
+      "tags": [
+        "medium-of-exchange",
+        "polygon-ecosystem"
+      ],
       "max_supply": 100000000000,
       "circulating_supply": 54227110195.29,
       "total_supply": 100000000000,
@@ -3684,7 +3755,11 @@
       "slug": "kucoin-token",
       "num_market_pairs": 34,
       "date_added": "2017-10-24T00:00:00.000Z",
-      "tags": ["marketplace", "centralized-exchange", "discount-token"],
+      "tags": [
+        "marketplace",
+        "centralized-exchange",
+        "discount-token"
+      ],
       "max_supply": 170118638,
       "circulating_supply": 80118638,
       "total_supply": 170118638,
@@ -3721,7 +3796,11 @@
       "slug": "nexo",
       "num_market_pairs": 53,
       "date_added": "2018-05-01T00:00:00.000Z",
-      "tags": ["services", "payments", "arrington-xrp-capital"],
+      "tags": [
+        "services",
+        "payments",
+        "arrington-xrp-capital"
+      ],
       "max_supply": 1000000000,
       "circulating_supply": 560000011,
       "total_supply": 1000000000,
@@ -4130,10 +4209,51 @@
   "history": [
     {
       "crypto": "BTC",
-      "capital": 916,
-      "risk": 3,
-      "entry": 51847,
-      "stop": 52057
+      "position": "short",
+      "capital": 1000,
+      "risk": 1,
+      "stop": 52057,
+      "entry": 49847,
+      "stopPercentage": 0.04,
+      "calculatedPosition": 226,
+      "index": 8,
+      "id": 1
+    },
+    {
+      "crypto": "BTC",
+      "position": "short",
+      "capital": 1000,
+      "risk": 1,
+      "stop": 52057,
+      "entry": 49847,
+      "stopPercentage": 0.04,
+      "calculatedPosition": 226,
+      "index": 9,
+      "id": 2
+    },
+    {
+      "crypto": "BTC",
+      "position": "short",
+      "capital": 1000,
+      "risk": 1,
+      "stop": 52057,
+      "entry": 49847,
+      "stopPercentage": 0.04,
+      "calculatedPosition": 226,
+      "index": 10,
+      "id": 3
+    },
+    {
+      "crypto": "BTC",
+      "position": "short",
+      "capital": 1000,
+      "risk": 1,
+      "stop": 52057,
+      "entry": 49847,
+      "stopPercentage": 0.04,
+      "calculatedPosition": 226,
+      "index": 11,
+      "id": 4
     }
   ]
 }
