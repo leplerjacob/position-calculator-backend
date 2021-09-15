@@ -15,24 +15,12 @@ function getETHPrice() {
   })
 }
 
-module.exports = {
-  getBTC: getBTCPrice,
-  getETH: getETHPrice
+async function postTrade(trade) {
+  return await axios.post("http://localhost:3002/history", trade)
 }
 
-/*
-const requestOptions = {
-  method: 'GET',
-  uri: 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest',
-  qs: {
-    'start': '1',
-    'limit': '5000',
-    'convert': 'USD'
-  },
-  headers: {
-    'X-CMC_PRO_API_KEY': 'b54bcf4d-1bca-4e8e-9a24-22ff2c3d462c'
-  },
-  json: true,
-  gzip: true
-};
-*/
+module.exports = {
+  getBTC: getBTCPrice,
+  getETH: getETHPrice,
+  postTrade: postTrade,
+}
